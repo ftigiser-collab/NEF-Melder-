@@ -1,5 +1,5 @@
 /* NEF-Melder Service Worker: HTML network-first, alles andere cache-first. VERSION bei jedem Update hochzählen. */
-const VERSION = "nefm-4";
+const VERSION = "nefm-5";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png",
   "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
   "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
